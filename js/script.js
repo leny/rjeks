@@ -1,5 +1,5 @@
-/* /Reg{2,}ie/ - The practical online regex tester
- * by flatLand!
+/* /rjeks/ - The practical online regex tester
+ *
  * JS File - /js/script.js - main entry point
  * coded by leny@flatLand!
  * october 2012
